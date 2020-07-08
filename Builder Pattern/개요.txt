@@ -1,0 +1,9 @@
+빌더 패턴 소스 코드입니다.
+
+- 시나리오 및 클래스 다이어그램
+유튜브: https://youtu.be/8mAoUZmhzV0
+언제나휴일: http://ehpub.co.kr/2-%eb%b9%8c%eb%8d%94-%ed%8c%a8%ed%84%b4builder-pattern/
+
+- 구현
+유튜브: https://youtu.be/TR55gw_DY7I
+언제나 휴일:http://ehpub.co.kr/2-%eb%b9%8c%eb%8d%94-%ed%8c%a8%ed%84%b4builder-pattern-%ea%b5%ac%ed%98%84/
