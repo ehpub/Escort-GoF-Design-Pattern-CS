@@ -1,0 +1,11 @@
+Factory Method Pattern
+
+-시나리오
+유튜브:https://youtu.be/4t66IXpSCEM
+언제나 휴일:http://ehpub.co.kr/3-%ed%8c%a9%ed%86%a0%eb%a6%ac-%eb%a9%94%ec%84%9c%eb%93%9c-%ed%8c%a8%ed%84%b4factory-method-pattern/
+
+
+-구현
+유튜브:https://youtu.be/ozBZ7S1WUEU
+언제나 휴일:http://ehpub.co.kr/3-%ed%8c%a9%ed%86%a0%eb%a6%ac-%eb%a9%94%ec%84%9c%eb%93%9c-%ed%8c%a8%ed%84%b4factory-method-pattern-%ea%b5%ac%ed%98%84/
+
